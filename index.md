@@ -1,3 +1,2 @@
-# main
-
-clmxnetwork-main
+# CLMX Network
+Community Hub
