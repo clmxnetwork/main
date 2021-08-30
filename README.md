@@ -1,2 +1,2 @@
-# main
-clmx-main-repo
+# CLMX Network
+CLMX Community
