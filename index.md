@@ -1,3 +1,6 @@
+<iframe src="https://discord.com/widget?id=881832300176887848&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/clmxnetwork/main/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
