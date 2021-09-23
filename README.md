@@ -1,2 +1,1 @@
-# CLMX Network
-CLMX Community
+Lotto Results Site
